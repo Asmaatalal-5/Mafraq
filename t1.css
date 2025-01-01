@@ -1,0 +1,18 @@
+.Orange {
+    width: 250px;
+    height: 350px;
+    background-color: #f6821f;
+    padding: 0em;
+    border: 0em;
+    margin: 25em 0em 8em 48em;
+}
+
+p {
+    color: white;
+}
+
+span {
+    font-size: xx-large;
+    font-weight: 900;
+    
+}
